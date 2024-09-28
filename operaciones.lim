@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>Recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>FFFFFF</corfondo>
+        <corbanda>8080FF</corbanda>
+        <cornavega>8080FF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Matemáticas</titulo>
+        <subtitulo>Operaciones</subtitulo>
+        <autor>Maria José Colón</autor>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >¡Excelente..! ¡Felicidades!</correcto>
+        <incorrecto son="" modo="1" >ohh no... Sigue Intentando.</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="76" posy="0">portada.png</imaxe>
+              <texto posx="149" posy="377" ancho="200" largo="200"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12">Hola, Bienvenido.<br>
+Vamos a realizar algunas operaciones elementales. </font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>31</tipo>
+              <pe>¿Como lo harias?</pe>
+              <valor texto="Marlon debe pagar 206000 con billetes diferentes. Ayuda a Marlon a pagar">206000</valor>
+              <etiqueta imaxe="mil_-_copia.jpg" texto="Mil">1000</etiqueta>
+              <etiqueta imaxe="20mil.jpg" texto="Veinte mil">20000</etiqueta>
+              <etiqueta imaxe="5mil2.jpg" texto="Cinco mil">5000</etiqueta>
+              <etiqueta imaxe="50mil.png" texto="Cincuenta mil">50000</etiqueta>
+        </paxina>
+        <paxina id="3" >
+              <tipo>26</tipo>
+              <modo>0</modo>
+              <forma>+</forma>
+              <numero>3452</numero>
+              <numero>3445</numero>
+              <numero>8660</numero>
+        </paxina>
+        <paxina id="4" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>5</forma>
+              <numero>2</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <texto posx="7" posy="14" ancho="632" largo="323"><![CDATA[<font size="12"><iframe width="560" height="315" src="https://www.youtube.com/embed/w016sdtyv1w?si=jSkyAjsZ4zJCQW54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></font>]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>
